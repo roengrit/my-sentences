@@ -1,0 +1,48 @@
+[
+  {
+    "category": "การสัมภาษณ์งาน",
+    "icon": "💼",
+    "sentences": [
+      { "english": "Could you tell me a little bit about yourself?", "thai": "ช่วยเล่าเรื่องเกี่ยวกับตัวคุณให้ฟังหน่อยได้ไหม?" },
+      { "english": "What do you consider to be your greatest strength?", "thai": "คุณคิดว่าจุดแข็งที่สุดของคุณคืออะไร?" },
+      { "english": "What is your greatest weakness?", "thai": "จุดอ่อนที่สุดของคุณคืออะไร?" },
+      { "english": "I am a proactive problem solver.", "thai": "ฉันเป็นคนที่มีความกระตือรือร้นในการแก้ปัญหา" },
+      { "english": "Where do you see yourself in five years?", "thai": "คุณมองเห็นตัวเองทำอะไรอยู่ในอีก 5 ปีข้างหน้า?" },
+      { "english": "I am looking for a company where I can add value.", "thai": "ฉันกำลังมองหาองค์กรที่ฉันสามารถสร้างคุณค่าเพิ่มให้ได้" }
+    ]
+  },
+  {
+    "category": "สแลงฝรั่งใช้บ่อย (Slang)",
+    "icon": "😎",
+    "sentences": [
+      { "english": "I am totally beat.", "thai": "ฉันเหนื่อยมากๆ หมดสภาพเลย" },
+      { "english": "Hang in there.", "thai": "อดทนไว้นะ สู้ๆ" },
+      { "english": "It is a piece of cake.", "thai": "มันง่ายมากๆ หมูๆ เลยหล่ะ" },
+      { "english": "I will get back to you.", "thai": "เดี๋ยวฉันขอติดต่อไปทีหลังนะ" },
+      { "english": "Hit me up when you are free.", "thai": "ทักมานะถ้าคุณว่าง" },
+      { "english": "No big deal.", "thai": "ไม่มีอะไรใหญ่โตหรอก ไม่ใช่เรื่องใหญ่" }
+    ]
+  },
+  {
+    "category": "การเจรจาต่อรอง",
+    "icon": "🤝",
+    "sentences": [
+      { "english": "Is that your best offer?", "thai": "นั่นคือข้อเสนอที่ให้สุดๆ ของคุณแล้วใช่ไหม?" },
+      { "english": "We need to find a middle ground.", "thai": "เราต้องหาจุดที่ยอมความกันได้ทั้งสองฝ่าย" },
+      { "english": "Can we negotiate the price?", "thai": "เราสามารถต่อรองราคาลงหน่อยได้ไหม?" },
+      { "english": "That is out of our budget.", "thai": "นั่นมันเกินงบที่เราตั้งเอาไว้" },
+      { "english": "Let us finalize the details.", "thai": "มาสรุปรายละเอียดทั้งหมดให้จบกันเถอะ" }
+    ]
+  },
+  {
+    "category": "นัดเดทและความรัก",
+    "icon": "🌹",
+    "sentences": [
+      { "english": "Are you seeing anyone lately?", "thai": "ช่วงนี้คุณกำลังคุยๆ หรือคบหาใครอยู่ไหม?" },
+      { "english": "I really enjoy spending time with you.", "thai": "ฉันมีความสุขมากที่ได้ใช้เวลาร่วมกับคุณ" },
+      { "english": "Would you like to grab a coffee sometime?", "thai": "วันหลังไปดื่มกาแฟด้วยกันไหม?" },
+      { "english": "You look stunning tonight.", "thai": "คุณดูโดดเด่นสะกดสายตามากในคืนนี้" },
+      { "english": "I have butterflies in my stomach.", "thai": "ฉันรู้สึกตื่นเต้น ประหม่าไปหมดเลย (ปั่นป่วนในท้อง)" }
+    ]
+  }
+]

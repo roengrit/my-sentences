@@ -1,0 +1,44 @@
+[
+  {
+    "category": "Sit tight (นั่งรออยู่เฉยๆ, ใจเย็นๆ, อย่าเพิ่งไปไหน)",
+    "icon": "🪑",
+    "sentences": [
+      { "english": "Do not make any trouble sit tight i'm on my way", "thai": "อย่าก่อปัญหา รอที่นั่นก่อน (อย่าเพิ่งไปไหน) ฉันกำลังเดินทางไปหา" },
+      { "english": "Everyone just sit tight for a few", "thai": "ทุกคนนั่งรออยู่เฉยๆ แป๊บหนึ่งก่อนนะ" },
+      { "english": "Sit tight until the cops get here", "thai": "อยู่เฉยๆ นะ อย่าไปไหนจนกว่าตำรวจจะมาถึง" },
+      { "english": "Is there a bathroom I could use? Sit tight it won't be too long", "thai": "มีห้องน้ำให้เข้าไหมแถวนี้? นั่งลงก่อน (อย่าเพิ่งไปไหน) มันใช้เวลาไม่นานหรอก" },
+      { "english": "Looks like I'm finally out of juice sit tight", "thai": "ดูเหมือนว่าฉันจะพลังงาน (แบตเตอรี่/เชื้อเพลิง) หมด รอคอยก่อน ผมกำลังไป" },
+      { "english": "Ryan I'm trapped in the elevator i got you sit tight help is on the way", "thai": "ไรอัน ฉันติดอยู่ในลิฟต์ ไม่ต้องห่วง รอคอยก่อน (ใจเย็นๆ) ความช่วยเหลือกำลังไปถึง" },
+      { "english": "The stock price is dropping should I sell? No just sit tight it'll go back up", "thai": "ราคาหุ้นมันตกแล้ว ฉันควรขายไหม? อย่าเพิ่ง นั่งทับมือไว้ (ใจเย็นๆ ก่อน) เดี๋ยวมันก็เด้งกลับขึ้นมา" },
+      { "english": "I'm so worried about my lab results. Sit tight everything's gonna be fine we're pulling for you", "thai": "ฉันกังวลมากเลยเกี่ยวกับผลตรวจ ใจเย็นๆ ก่อนนะ ทุกอย่างจะโอเคแน่ เราเอาใจช่วยนายอยู่" },
+      { "english": "So now I'm supposed to sit tight and wait for her", "thai": "งั้นตอนนี้หนูก็ควรจะรออยู่ที่นี่เฉยๆ แล้วก็รอให้แม่มารับสินะ" }
+    ]
+  },
+  {
+    "category": "Lay low / Lie low (กบดาน, ซ่อนตัว, เก็บตัวเงียบๆ)",
+    "icon": "👤",
+    "sentences": [
+      { "english": "I need to lay low for a week / I need somewhere to lie low", "thai": "ฉันอยากจะได้ที่เก็บตัว (ที่ซ่อนตัว) สัก 1 สัปดาห์ / ฉันต้องการสักที่แห่งหนึ่งเพื่อจะกบดาน" },
+      { "english": "It's best to just lay low for a few weeks", "thai": "มันจะดีที่สุดเลยนะถ้าคุณจะเก็บตัวเงียบๆ อยู่สัก 2-3 สัปดาห์" },
+      { "english": "We just have to lay low and keep a low profile until this blows over", "thai": "เราแค่ต้องกบดานอยู่เงียบๆ และอย่าทำตัวให้เป็นที่สนใจ จนกว่าเรื่องนี้มันจะเงียบไป (ซาไป)" },
+      { "english": "Lay low for a little bit and I'll figure out how to get out of this", "thai": "เราก็แค่ต้องกบดาน (ซ่อนตัว) อยู่สักพักนะ แล้วฉันจะลองหาทางออกว่าจะจัดการเรื่องนี้ยังไงดี" },
+      { "english": "Just need to lay low for a while until I can figure out what to do next", "thai": "เราแค่ต้องหลบซ่อนตัวอีกสักหน่อย จนกว่าฉันจะคิดออกว่าจะทำอะไรต่อไปดี" },
+      { "english": "Hey be careful the boss is really mad today. All right I'm gonna lay low until he's gone", "thai": "ระวังหน่อยนะ วันนี้หัวหน้าอารมณ์บูดสุดๆ เลย. โอเค ฉันจะแอบอยู่เงียบๆ จนกว่าเขาจะไป" },
+      { "english": "Everyone is talking about your scandal. Okay i think I'll just lay low until it blows over", "thai": "ทุกคนเมาท์เรื่องฉาวของแก. โอเคร ฉันก็จะเก็บตัวอยู่เงียบๆ จนกว่าเรื่องมันจะซาไป" },
+      { "english": "Jim your ex is at the party you might want to lay low. Oh I'm gonna lay low in the kitchen then", "thai": "จิม แฟนเก่านายมาที่งานเลี้ยง นายน่าจะหลบหน่อยนะ. งั้นฉันจะแอบอยู่ห้องครัวเงียบๆ แล้วกัน" }
+    ]
+  },
+  {
+    "category": "Ride it out (อดทนไปก่อน, รอให้มันผ่านไป, รอให้หายเอง)",
+    "icon": "🌊",
+    "sentences": [
+      { "english": "We just have to ride it out until the morning", "thai": "เราได้แต่แค่อดทนรอไปเรื่อยๆ จนกว่ามันจะเช้า" },
+      { "english": "I think we just ride it out and avoid her as long as possible", "thai": "ฉันคิดว่าเราก็แค่ทนๆ ไปก่อน แล้วก็พยายามหลีกเลี่ยงเธอให้นานที่สุดเท่าที่จะทำได้" },
+      { "english": "If we remain calm we stay quiet and we live with what happened ride it out will be fine", "thai": "ถ้าพวกเราตั้งสติ เงียบไว้ ยอมรับสิ่งที่เกิดขึ้น แล้วทนให้มันผ่านไป (อดทนไว้) เราก็จะปลอดภัยแน่" },
+      { "english": "With the virus you just have to ride it out", "thai": "ถ้าเกิดเป็นไวรัส คุณก็แค่ต้องรอให้มันหายเอง" },
+      { "english": "My business is struggling this month. Same here we just have to ride it out", "thai": "ธุรกิจของฉันเดือนนี้มันแย่มากเลย. ฉันก็เหมือนกัน เราแค่ต้องอดทนผ่านช่วงนี้ไปให้ได้" },
+      { "english": "I'm so discouraged about my YouTube channel. Just ride it out trust me things will get better", "thai": "ฉันท้อใจมากเลยเรื่องการทำช่อง YouTube ของตัวเอง. อดทนไปก่อนนะ เชื่อฉันสิ เดี๋ยวอะไรๆ มันจะดีขึ้น" },
+      { "english": "This flu is killing me. I get it take some rest and ride it out", "thai": "ไข้หวัดเนี่ยเล่นเอาฉันป่วยหนักเลย. ฉันเข้าใจนะ นอนพักผ่อนซะ แล้วก็รอให้มันหายไปเองแล้วกัน" }
+    ]
+  }
+]

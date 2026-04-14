@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Weather",
+    "icon": "🌤️",
+    "sentences": [
+      { "english": "It is a sunny day, so we should go to the park.", "thai": "วันนี้มีแดดแรง เราควรไปสวนสาธารณะกันนะ" },
+      { "english": "The sky is clear tonight; I can see many stars.", "thai": "คืนนี้ท้องฟ้าโปร่งใสมาก ฉันมองเห็นดาวเต็มเลย" },
+      { "english": "Be careful! It's extra sunny outside, don't forget your sunblock.", "thai": "ระวังด้วยนะ! ข้างนอกแดดแรงมาก ๆ อย่าลืมทาครีมกันแดดล่ะ" },
+      { "english": "I love staying at home on a rainy day.", "thai": "ฉันชอบอยู่บ้านในวันที่ฝนตก" },
+      { "english": "The kids are playing outside in the snowy weather.", "thai": "เด็ก ๆ กำลังเล่นข้างนอกท่ามกลางหิมะตก" },
+      { "english": "It’s overcast and looks like it's going to rain soon.", "thai": "ท้องฟ้ามีเมฆปกคลุม ดูเหมือนฝนกำลังจะตกเร็ว ๆ นี้" },
+      { "english": "The sea is calm because it is a windless day.", "thai": "ทะเลสงบมากเพราะวันนี้ไม่มีลมเลย" },
+      { "english": "You should wear a sweater; it’s a bit chilly this morning.", "thai": "คุณควรใส่เสื้อไหมพรมนะ เช้านี้อากาศค่อนข้างเย็น" },
+      { "english": "Turn on the heater, please. It's freezing in here!", "thai": "ช่วยเปิดฮีตเตอร์หน่อย ในนี้หนาวมาก ๆ เลย!" },
+      { "english": "I feel sticky because the weather is so humid.", "thai": "ฉันรู้สึกเหนียวตัวเพราะอากาศมันร้อนชื้นมาก" },
+      { "english": "Drive slowly; the road is very misty right now.", "thai": "ขับรถช้า ๆ หน่อยนะ ตอนนี้ถนนมีหมอกหนามาก" },
+      { "english": "It is a windy afternoon, perfect for flying a kite.", "thai": "ช่วงบ่ายนี้มีลมแรง เหมาะกับการไปเล่นว่าวมาก" },
+      { "english": "The mountains are hidden behind the foggy air.", "thai": "ภูเขาถูกซ่อนอยู่ภายใต้หมอก" },
+      { "english": "It’s too dangerous to go out because it's stormy tonight.", "thai": "มันอันตรายเกินไปที่จะออกไปข้างนอกเพราะคืนนี้มีพายุ" },
+      { "english": "The ground is very dry because it hasn't rained for months.", "thai": "พื้นดินแห้งแล้งมากเพราะฝนไม่ตกมาหลายเดือนแล้ว" },
+      { "english": "The sky is very cloudy, I can't see the sun.", "thai": "ท้องฟ้ามีเมฆมากจนฉันมองไม่เห็นพระอาทิตย์เลย" },
+      { "english": "Thailand is very hot in April.", "thai": "ประเทศไทยอากาศร้อนมากในช่วงเดือนเมษายน" },
+      { "english": "Wait until it's cold enough to go skiing.", "thai": "รอจนกว่าอากาศจะหนาวพอที่จะไปเล่นสกีได้" },
+      { "english": "Plants cannot grow well in this arid land.", "thai": "พืชไม่สามารถเติบโตได้ดีในพื้นที่ที่ร้อนมากและแห้งแล้งขนาดนี้" },
+      { "english": "The weather is mild today, not too hot or too cold.", "thai": "วันนี้อากาศอบอุ่นกำลังดี ไม่ร้อนและไม่หนาวเกินไป" },
+      { "english": "Don't go out without an umbrella, it's very rainy lately.", "thai": "อย่าออกไปข้างนอกโดยไม่มีร่มนะ ช่วงนี้ฝนตกบ่อยมาก" },
+      { "english": "The airport is closed due to the foggy conditions.", "thai": "สนามบินปิดทำการเนื่องจากสภาพอากาศมีหมอกลงจัด" },
+      { "english": "Is it still snowing outside? It looks so white.", "thai": "ข้างนอกหิมะยังตกอยู่ไหม? ทุกอย่างดูขาวโพลนไปหมดเลย" },
+      { "english": "I prefer a cool and windy climate over a hot one.", "thai": "ฉันชอบอากาศเย็นและมีลมแรงมากกว่าอากาศร้อน" },
+      { "english": "The desert is known for its arid and harsh environment.", "thai": "ทะเลทรายขึ้นชื่อเรื่องสภาพแวดล้อมที่ร้อนจัดและแห้งแล้ง" },
+      { "english": "Wear your heavy coat, it's freezing outside tonight.", "thai": "ใส่เสื้อโค้ทหนาๆ นะ คืนนี้ข้างนอกหนาวจัดเลย" },
+      { "english": "We had to cancel the match because it was too stormy.", "thai": "พวกเราต้องยกเลิกการแข่งขันเพราะพายุเข้าหนักมาก" },
+      { "english": "The weather forecast says it will be clear and sunny tomorrow.", "thai": "พยากรณ์อากาศบอกว่าพรุ่งนี้ท้องฟ้าจะโปร่งและมีแดด" },
+      { "english": "It’s a misty morning, I can barely see the road ahead.", "thai": "มันเป็นเช้าที่มีหมอกหนา ฉันแทบมองไม่เห็นทางข้างหน้าเลย" },
+      { "english": "I like the mild spring weather when the flowers bloom.", "thai": "ฉันชอบอากาศอบอุ่นช่วงฤดูใบไม้ผลิเวลาที่ดอกไม้ผลิบาน" }
+    ]
+  }
+]

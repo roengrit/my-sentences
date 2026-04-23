@@ -1,0 +1,91 @@
+[
+  {
+    "id": "q1",
+    "question": "ฉันกินแอปเปิ้ล",
+    "options": ["I", "eat", "an", "apple", "banana", "sleep"],
+    "answer": ["I", "eat", "an", "apple"]
+  },
+  {
+    "id": "q2",
+    "question": "วันนี้อากาศดี",
+    "options": ["Today", "the", "weather", "is", "good", "bad", "hot"],
+    "answer": ["Today", "the", "weather", "is", "good"]
+  },
+  {
+    "id": "q3",
+    "question": "คุณชื่ออะไร",
+    "options": ["What", "is", "your", "name", "who", "are", "you"],
+    "answer": ["What", "is", "your", "name"]
+  },
+  {
+    "id": "q4",
+    "question": "ฉันรักครอบครัวของฉัน",
+    "options": ["I", "love", "my", "family", "friends", "cat", "dog"],
+    "answer": ["I", "love", "my", "family"]
+  },
+  {
+    "id": "q5",
+    "question": "แมวสีขาว",
+    "options": ["The", "cat", "is", "white", "black", "blue", "red"],
+    "answer": ["The", "cat", "is", "white"]
+  },
+  {
+    "id": "q6",
+    "question": "ฉันอยากดื่มน้ำ",
+    "options": ["I", "want", "to", "drink", "water", "coffee", "milk"],
+    "answer": ["I", "want", "to", "drink", "water"]
+  },
+  {
+    "id": "q7",
+    "question": "ห้องน้ำอยู่ที่ไหน",
+    "options": ["Where", "is", "the", "toilet", "kitchen", "home", "school"],
+    "answer": ["Where", "is", "the", "toilet"]
+  },
+  {
+    "id": "q8",
+    "question": "ฉันสบายดี ขอบคุณ",
+    "options": ["I", "am", "fine", "thank", "you", "bad", "sad"],
+    "answer": ["I", "am", "fine", "thank", "you"]
+  },
+  {
+    "id": "q9",
+    "question": "เขาเป็นหมอ",
+    "options": ["He", "is", "a", "doctor", "teacher", "nurse", "pilot"],
+    "answer": ["He", "is", "a", "doctor"]
+  },
+  {
+    "id": "q10",
+    "question": "ฉันมีสุนัขสองตัว",
+    "options": ["I", "have", "two", "dogs", "one", "cat", "three"],
+    "answer": ["I", "have", "two", "dogs"]
+  },
+  {
+    "id": "q11",
+    "question": "คุณอายุเท่าไหร่",
+    "options": ["How", "old", "are", "you", "many", "much", "old"],
+    "answer": ["How", "old", "are", "you"]
+  },
+  {
+    "id": "q12",
+    "question": "โรงเรียนปิดวันเสาร์",
+    "options": ["School", "is", "closed", "on", "Saturday", "Sunday", "Monday"],
+    "answer": ["School", "is", "closed", "on", "Saturday"]
+  },
+  {
+    "id": "q13": "ฉันชอบเรียนภาษาอังกฤษ",
+    "options": ["I", "like", "learning", "English", "Thai", "Japan", "Music"],
+    "answer": ["I", "like", "learning", "English"]
+  },
+  {
+    "id": "q14",
+    "question": "มันเป็นหนังสือที่ดีมาก",
+    "options": ["It", "is", "a", "very", "good", "book", "movie", "song"],
+    "answer": ["It", "is", "a", "very", "good", "book"]
+  },
+  {
+    "id": "q15",
+    "question": "ขอโทษ ฉันสาย",
+    "options": ["Sorry", "I", "am", "late", "early", "fast", "slow"],
+    "answer": ["Sorry", "I", "am", "late"]
+  }
+]

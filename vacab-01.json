@@ -1,0 +1,77 @@
+[
+  {
+    "id": "v01",
+    "word": "Achievement",
+    "translation": "ความสำเร็จ"
+  },
+  {
+    "id": "v02",
+    "word": "Believe",
+    "translation": "เชื่อ"
+  },
+  {
+    "id": "v03",
+    "word": "Challenge",
+    "translation": "ความท้าทาย"
+  },
+  {
+    "id": "v04",
+    "word": "Determine",
+    "translation": "ตัดสินใจแน่วแน่"
+  },
+  {
+    "id": "v05",
+    "word": "Effort",
+    "translation": "ความพยายาม"
+  },
+  {
+    "id": "v06",
+    "word": "Failure",
+    "translation": "ความล้มเหลว"
+  },
+  {
+    "id": "v07",
+    "word": "Growth",
+    "translation": "การเติบโต"
+  },
+  {
+    "id": "v08",
+    "word": "Habit",
+    "translation": "นิสัย"
+  },
+  {
+    "id": "v09",
+    "word": "Improve",
+    "translation": "ปรับปรุง"
+  },
+  {
+    "id": "v10",
+    "word": "Journey",
+    "translation": "การเดินทาง"
+  },
+  {
+    "id": "v11",
+    "word": "Knowledge",
+    "translation": "ความรู้"
+  },
+  {
+    "id": "v12",
+    "word": "Listen",
+    "translation": "ฟัง"
+  },
+  {
+    "id": "v13",
+    "word": "Memory",
+    "translation": "ความจำ"
+  },
+  {
+    "id": "v14",
+    "word": "Opportunity",
+    "translation": "โอกาส"
+  },
+  {
+    "id": "v15",
+    "word": "Practice",
+    "translation": "การฝึกซ้อม"
+  }
+]

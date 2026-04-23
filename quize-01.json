@@ -72,7 +72,8 @@
     "answer": ["School", "is", "closed", "on", "Saturday"]
   },
   {
-    "id": "q13": "ฉันชอบเรียนภาษาอังกฤษ",
+    "id": "q13",
+    "question": "ฉันชอบเรียนภาษาอังกฤษ",
     "options": ["I", "like", "learning", "English", "Thai", "Japan", "Music"],
     "answer": ["I", "like", "learning", "English"]
   },
